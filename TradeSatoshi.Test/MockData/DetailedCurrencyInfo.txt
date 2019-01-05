@@ -1,0 +1,16 @@
+﻿{
+    "success": true,
+    "message": null,
+    "result": {
+    "currency": "BTC",
+    "currencyLong": "Bitcoin",
+    "minConfirmation": 6,
+    "txFee": 0.00200000,
+    "status": "OK",
+    "statusMessage": "",
+    "minBaseTrade": 0.00010000,
+    "isTipEnabled": true,
+    "minTip": 0.00000100,
+    "maxTip": 0.10000000
+    }
+}

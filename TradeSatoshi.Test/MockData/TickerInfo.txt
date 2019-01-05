@@ -1,0 +1,10 @@
+﻿{
+    "success":true,
+    "message":null,
+    "result":{
+    "bid":0.01500000,
+    "ask":100.00000000,
+    "last":0.01000000,
+    "market":"LTC_BTC"
+    }
+}
